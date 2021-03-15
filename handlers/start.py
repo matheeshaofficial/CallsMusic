@@ -23,7 +23,7 @@ Use the buttons below to know more about me.""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/sibertrone_tf"
+                        "commands&instruction", url="https://telegra.ph/Comands--instructions-03-15"
                     ),
                     InlineKeyboardButton(
                         "owner", url="https://t.me/percy_jackson_4"
