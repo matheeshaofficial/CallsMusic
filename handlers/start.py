@@ -11,7 +11,7 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>👋🏻 Hi {message.from_user.first_name}!</b>
 
-I am hermione 💚 Music Player🎶 that lets you play music in your Telegram groups.
+I am hermione 💚 Music Player [🎶](https://telegra.ph/file/f7cf3296f9902c176bd6c.mp4) that lets you play music in your Telegram groups.
 
 Use the buttons below to know more about me.""",
         reply_markup=InlineKeyboardMarkup(
